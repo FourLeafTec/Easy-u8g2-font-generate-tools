@@ -8,7 +8,7 @@ python3 main.py \
     -b -c -ia
 
 python3 main.py \
-    -i "加载中." \
+    -i "加载中.电压低保护电机过流保护编码器故障12304保存并退出请先回到编程位座椅未转到脱钩角度需前后归零旋转伸缩请编程缓存有数据" \
     -n "wenquanyi" \
     -p "font/wenquanyi.ttf" \
     -d 72 \
@@ -17,7 +17,7 @@ python3 main.py \
     -c
 
 python3 main.py \
-    -i "0123456789MVv. 输入密码电压低保护保存并退出电机过流保护福祉座椅控制器传输" \
+    -i "_-0123456789MVvFREB:., 堵转未知输入密码电压低保护保存并退出电机过流保护福祉座椅控制器传输中请等待返回紧急" \
     -n "wenquanyi" \
     -p "font/wenquanyi.ttf" \
     -d 72 \
